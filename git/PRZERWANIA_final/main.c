@@ -2,8 +2,8 @@
 #include "timer_interrupts.h"
 #include "keyboard.h"
 
-//test gita
-
+//nowy komentarz
+// czy zadziala
 void Automat (void){
 	enum LedState {LED_RIGHT, LED_LEFT, STOP};
 

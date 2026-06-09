@@ -7,8 +7,6 @@ C:\Users\majka\OneDrive\Pulpit\PPSW-git\git\PRZERWANIA_final\przerwania_final.uv
 Project File Date:  06/09/2026
 
 <h2>Output:</h2>
-Clean started: Project: 'przerwania_final'
-   deleting intermediate output files for target 'Target 1'
 Build target 'Target 1'
 assembling Startup.s...
 compiling main.c...
