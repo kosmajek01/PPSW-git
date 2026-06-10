@@ -19,7 +19,7 @@ void Automat (void){
 			else if (eKeyboardRead() == BUTTON_2){
 				  eLedState = LED_RIGHT;
 			}
-			
+			//git test
 			else {
 				eLedState = STOP;
 			}
